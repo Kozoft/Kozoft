@@ -1,0 +1,3 @@
+[submodule "mubsoduleA"]
+	path = mubsoduleA
+	url = https://github.com/Kozoft/mubsoduleA.git
